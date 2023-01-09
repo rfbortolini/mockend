@@ -6,9 +6,9 @@
     "desc": "bla bla bla",
     "isLate": false,
     "start": "01/01/2023",
-    "due: "nov/2023",
+    "due:" "nov/2023",
     "req": "Marcelo",
     "resp": "Rafael",
-    "link": https://chat.openai.com/chat"
+    "link": "https://chat.openai.com/chat"
   }
 ]
