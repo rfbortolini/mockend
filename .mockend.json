@@ -1,11 +1,14 @@
-{
-  "Post": {
-    "_": { "items": 20 },
-    "title": { "string": {} },
-    "comments": { "hasMany": "Comment" }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": { "belongsTo": "Post" }
+[
+  {
+    "id": 1,
+    "instanceId": 222,
+    "title": "Aprovar tarefa",
+    "desc": "bla bla bla",
+    "isLate": false,
+    "start": "01/01/2023",
+    "due: "nov/2023",
+    "req": "Marcelo",
+    "resp": "Rafael",
+    "link": https://chat.openai.com/chat"
   }
-}
+]
